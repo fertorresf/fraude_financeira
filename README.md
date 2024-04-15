@@ -4,7 +4,7 @@
 
 # Topicos
 
- ** Fraude Financeira: ** Refere-se a qualquer atividade fraudulenta destinada a obter ganhos financeiros ilegítimos. Pode incluir fraude bancária, fraude de cartão de crédito, lavagem de dinheiro, entre outros.
+ * Fraude Financeira: * Refere-se a qualquer atividade fraudulenta destinada a obter ganhos financeiros ilegítimos. Pode incluir fraude bancária, fraude de cartão de crédito, lavagem de dinheiro, entre outros.
 
  Padrões de Fraude: Existem padrões comuns de comportamento que podem indicar a ocorrência de fraude. Isso pode incluir transações incomuns, mudanças repentinas nos padrões de gastos, atividades fora do horário comercial, entre outros.
 
