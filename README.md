@@ -27,3 +27,17 @@ Modelagem Preditiva: Desenvolver modelos de aprendizado de máquina para prever 
 Avaliação e Ajuste do Modelo: Avaliar o desempenho do modelo usando métricas relevantes, como precisão, recall e F1-score. Ajustar o modelo conforme necessário para melhorar sua precisão e eficácia na detecção de fraudes.
 
 Implementação do Sistema de Detecção de Fraudes: Integrar o modelo de detecção de fraudes em um sistema em tempo real para monitorar e detectar transações fraudulentas em tempo real.
+
+# Cronograma:
+
+Semana 1-2: Definição do escopo do projeto, revisão da literatura sobre detecção de fraudes financeiras, e seleção das fontes de dados.
+
+Semana 3-4: Coleta e pré-processamento dos dados, incluindo limpeza e integração de diferentes fontes de dados.
+
+Semana 5-6: Análise exploratória de dados para identificar padrões e tendências nos dados financeiros.
+
+Semana 7-8: Desenvolvimento e treinamento de modelos de detecção de fraudes usando técnicas de aprendizado de máquina.
+
+Semana 9-10: Avaliação e ajuste dos modelos de detecção de fraudes com base em métricas de desempenho.
+
+Semana 11-12: Implementação do sistema de detecção de fraudes em um ambiente de produção e realização de testes finais.
